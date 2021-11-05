@@ -1,6 +1,6 @@
 {
-	"ip":"Your Server IP", // example mc.hypixel.net  NOTE: IF YOU ENTER IT HYPIXEL'S IP THE BOT WILL JOIN HYPIXEL
-	"port": "Your Port", // example 25565
-	"name": "AFKBot51", // you can change it
+	"ip":"Your Server IP",
+	"port": "Your Port", 
+	"name": "AFKBot51", 
 	"auto-night-skip":"false"
 }
